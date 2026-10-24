@@ -29,7 +29,7 @@ function headerHTML() {
       <header>
 
         <div class="header-content">
-	        <div class="header-title">Website Title</div>
+	        <div class="header-title">Drwhomust's Shenanigans</div>
 	        
         	
         </div>
@@ -108,10 +108,9 @@ function headerHTML() {
         </div>
         
         <div class="sidebar-section">
-          <div class="sidebar-title">Section Title</div>
+          <div class="sidebar-title">Check out the creator of this site template!</div>
           <div class="site-button">
           	<a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a>
-        	<textarea><a href="https://petrapixel.neocities.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/petracoding/petrapixel.neocities.org@latest/public/img/linkback.gif" alt="petrapixel"></a></textarea>
           </div>
         </div>
       </aside>
