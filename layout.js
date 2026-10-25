@@ -51,7 +51,9 @@ function headerHTML() {
             <li><a href="/">Home</a></li>
             <li><a href="/artstyle/index.html">Art Style</a></li>
         	<li>
-        	
+
+				<!-- for something else -->
+			
               	<!-- <details> -->
                 <!-- <summary>Main OCs</summary> -->
                 <!-- <ul> -->
